@@ -1,0 +1,13 @@
+Se hen hecho las siguientes implementaciones y alguna mejora en la pagina para mejorar la experiencia de uso de cualquier usuario
+
+    La pagina contiene lo siguiente:
+   
+    - Contiene un nav con las imagenes de perfil, documentos, configuracion y carnet
+
+    - Al seleccionar estas imagenes se desplazara una "ventana" con el nombre de la opcion seleccionada 
+    
+    Las mejoras que se han introducido es:
+
+      - Se ha implementado la opcion de responsive, de manera que tanto el nav, imagen y demas permite que se pueda acceder a la pagina desde cualquier dispositivo 
+
+      - El background sale y se guarda en el nav
